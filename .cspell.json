@@ -18,3 +18,7 @@
   "ignorePaths": [".cspell.json"],
   "useGitignore": true
 }
+
+{
+   "author" : "vrund patel"
+}
